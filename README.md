@@ -117,11 +117,4 @@ Le One-Time Pad a été utilisé pour :
 
 Aujourd'hui, son usage est limité aux communications ultra-sensibles en raison de ses contraintes pratiques.
 
-### Remarque
 
-Ce code est une implémentation pédagogique qui permet de comprendre le concept de sécurité parfaite et les principes du One-Time Pad. Pour une utilisation en production, il faudrait ajouter :
-
-- Une meilleure gestion des clés.
-- Des contrôles de sécurité supplémentaires.
-- Une validation des entrées plus robuste.
-- Des mécanismes de destruction sécurisée des clés.
