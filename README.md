@@ -46,9 +46,7 @@ Cependant, ces chiffrements restent importants car :
 - Ils ont influencé le développement des chiffrements modernes.
 - Les principes de substitution et transposition sont toujours utilisés dans des algorithmes modernes comme **AES**.
 
-### Remarque
 
-Le code fourni est une implémentation pédagogique qui permet de comprendre ces concepts historiques. Il n'est pas destiné à une utilisation en production, mais plutôt à l'apprentissage des fondamentaux de la cryptographie.
 
 ---
 
